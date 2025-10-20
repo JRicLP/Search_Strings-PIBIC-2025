@@ -60,9 +60,10 @@ Este documento registra as strings de busca utilizadas na revisão sistemática 
 -   **Data da Busca:** AAAA-MM-DD
 -   **String de Busca:**
     ```sql
-    ("Explainable AI" OR XAI OR “Explainable Artificial Intelligence“) AND (Industry OR Manufacturing OR "Production Process*" OR “Industry 4.0” OR “Industry 5.0” OR “industrial process”)
+    TITLE-ABS-KEY(("Explainable AI" OR XAI)) AND TITLE-ABS-KEY((Industry OR Manufacturing OR "Production Process*" OR "Industry 4.0" OR "Industry 5.0")) AND (PUBYEAR > 2018 AND PUBYEAR < 2026)
     ```
--   **Filtros:** Idioma: Inglês; Período: 2019-2025
--   **Resultados:** 
+-   **Filtros:** Idioma: Inglês; Período: 2019-2025, Conference Paper, Article
+-   **Resultados:** 727
 -   **Notas:** 
+
 
