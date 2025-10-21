@@ -6,7 +6,7 @@
 
 **Orientador(a):** Emmanuel Andrade de Barros Santos
 
-**Última atualização:** 18/10/2025
+**Última atualização:** 20/10/2025
 
 Este documento registra as strings de busca utilizadas na revisão sistemática da literatura deste projeto, garantindo a transparência e reprodutibilidade da pesquisa.
 
@@ -65,6 +65,7 @@ Este documento registra as strings de busca utilizadas na revisão sistemática 
 -   **Filtros:** Idioma: Inglês; Período: 2019-2025, Conference Paper, Article
 -   **Resultados:** 727
 -   **Notas:** 
+
 
 
 
