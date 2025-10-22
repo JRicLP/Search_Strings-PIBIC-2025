@@ -60,11 +60,12 @@ Este documento registra as strings de busca utilizadas na revisão sistemática 
 -   **Data da Busca:** 20/10/2025
 -   **String de Busca:**
     ```sql
-   TITLE-ABS-KEY(("Explainable AI" OR XAI)) AND TITLE-ABS-KEY((Industry OR Manufacturing OR "Production Process*" OR "Industry 4.0" OR "Industry 5.0"))
+    TITLE-ABS-KEY(("Explainable AI" OR XAI)) AND TITLE-ABS-KEY((Industry OR Manufacturing OR "Production Process*" OR "Industry 4.0" OR "Industry 5.0"))
     ```
 -   **Filtros:** Idioma: Inglês; Período: 2019-2025, Conference Paper, Article
 -   **Resultados:** 727
 -   **Notas:** 
+
 
 
 
