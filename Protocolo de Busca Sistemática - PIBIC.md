@@ -24,7 +24,7 @@ Este documento registra as strings de busca utilizadas na revisão sistemática 
     ("Explainable AI" OR XAI) AND (Industry) AND ("Industry 4.0" OR "Industry 5.0" OR "industrial process")
     ```
 -   **Filtros:** Idioma: Inglês; Período: 2019-2025; Review Articles, Research Articles
--   **Resultados Pós Triagem:** 
+-   **Resultados Pós Triagem:** 44
 
 ---
 
@@ -36,7 +36,7 @@ Este documento registra as strings de busca utilizadas na revisão sistemática 
     "Explainable AI" OR XAI AND Industry AND "Industry 4.0" OR "Industry 5.0" OR "industrial process"
     ```
 -   **Filtros:** Período: 2015-2025, Journals
--   **Resultados Pós Triagem:** 
+-   **Resultados Pós Triagem:** 28
 
 ---
 
@@ -48,7 +48,7 @@ Este documento registra as strings de busca utilizadas na revisão sistemática 
     ("Explainable AI" OR XAI) AND (Industry) AND ("Industry 4.0" OR "Industry 5.0" OR "industrial process")
     ```
 -   **Filtros:** Período: 2015-2025, Journals, Research Articles
--   **Resultados Pós Triagem:** 
+-   **Resultados Pós Triagem:** 9
 
 ---
 
@@ -60,7 +60,8 @@ Este documento registra as strings de busca utilizadas na revisão sistemática 
     TITLE-ABS-KEY(("Explainable AI" OR XAI)) AND TITLE-ABS-KEY((Industry)) AND TITLE-ABS-KEY(("Industry 4.0" OR "Industry 5.0" OR "industrial process"))
     ```
 -   **Filtros:** Idioma: Idioma: Inglês; Período: 2015-2025, Article, Review
--   **Resultados Pós Triagem:** 
+-   **Resultados Pós Triagem:** 100
+
 
 
 
